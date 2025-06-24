@@ -142,6 +142,11 @@ pre {
   white-space: pre;
 }
 
+main {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
 main > div {
   margin: 40px 16px;
 }
